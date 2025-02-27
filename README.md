@@ -9,7 +9,7 @@ Este projeto é uma API REST desenvolvida em **Java** com **Spring Boot 3**, que
 - 🔹 **Lombok** (Redução de código boilerplate)   
 
 ## 📖 Documentação da API - Swagger  
-A API possui documentação interativa gerada automaticamente pelo **Swagger**, permitindo testar os endpoints diretamente pelo navegador.  
+A API possui documentação interativa gerada automaticamente pelo **Swagger**, permitindo testar os endpoints diretamente pelo navegador após rodar o código localmente.  
 
 🔗 **Acesse a documentação do Swagger**:  
 👉 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)  
